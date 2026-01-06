@@ -1,0 +1,8 @@
+{
+  "name": "PantryWall",
+  "description": "A premium multi-vendor grocery marketplace featuring AI-powered pantry assistance, vendor management, and streamlined checkout.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
